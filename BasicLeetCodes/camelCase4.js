@@ -43,7 +43,7 @@ function processCamelCase(input) {
     }
   });
 
-  return results.join('\n');
+  console.log(results.join('\n'));
 }
 
 // Exemplo de entrada
